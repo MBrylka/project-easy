@@ -1,0 +1,42 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+venv/
+.env
+
+# Flask and Python specific files
+instance/
+*.env
+*.env.*
+config.py
+
+# Log files
+*.log
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Docker files
+*.env
+docker-compose.yml
+*.pid
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints (if you use them)
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# VSCode specific files
+.vscode/
+
+# PyCharm specific files
+.idea/
+

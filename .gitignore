@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Virtual environment folder
-venv/
+.venv/
 .env
 
 # Flask and Python specific files
